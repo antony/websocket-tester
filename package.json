@@ -1,0 +1,18 @@
+{
+  "name": "websocket-tester",
+  "version": "1.0.0",
+  "description": "Websocket Tester",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "websocket",
+    "test"
+  ],
+  "author": "Antony Jones",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^5.1.1"
+  }
+}
