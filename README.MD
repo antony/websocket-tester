@@ -2,6 +2,8 @@
 
 A very simple way to test if a websocket responds (and in the way you expect it to)
 
+Available as a simple node app or a [Docker image](https://hub.docker.com/r/antony/websocket-tester/)
+
 ### Usage
 
 Specify the environment variables:
